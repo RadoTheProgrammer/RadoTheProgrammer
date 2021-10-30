@@ -1,4 +1,4 @@
-Hi, I’m @RadoTheProgrammer 
+Hi, I’m RadoTheProgrammer 
 and I’m interested in the Programmation.
 I’m currently learning Python and Scratch.
 
