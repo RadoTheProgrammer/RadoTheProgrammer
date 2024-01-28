@@ -1,6 +1,10 @@
-Hi, I’m RadoTheProgrammer 
-and I’m interested in the Programmation.
-I’m currently learning Python and Scratch.
+Hi, I’m **RadoTheProgrammer**
+
+I get started in github.
+I'm a teenager that love programming.
+I'm currently making projects in python. All my projects start with rr-
+
+Pls take a look on my projects rrytapi, rrprettier.
 
 <!---
 RadoTheProgrammer/RadoTheProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
