@@ -1,8 +1,7 @@
 ## Current projects
 
 * RRYTApi: search&download videos, get videos&playlist info
-* RRSpotipy: play a playlist of songs, rank songs with pairwise comparison
-* RRPairw: pairwise comparison tool
+* RRSpotipy: play a playlist of songs
 * Learning c++
 * Learning swift
 
@@ -58,4 +57,6 @@
 * pygame: tetris
 * pygame: platformer
 * a js project
-* microbit
+* microbit with python minecraft
+* a swift app
+
