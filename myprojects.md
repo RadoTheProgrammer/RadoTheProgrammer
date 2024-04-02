@@ -1,9 +1,10 @@
 ## Current projects
 
-* RRYTApi: search&download videos, get videos&playlist info
-* RRSpotipy: play a playlist of songs
-* Learning c++
-* Learning swift
+* mcserial
+* cpplearn-part2
+* ml
+* pymaths
+* stats-notes
 
 ## Past projects
 
@@ -53,10 +54,10 @@
 ## Future projects
 
 * A C++ project
+* A ML project
 * pygame: flappy bird
 * pygame: tetris
 * pygame: platformer
 * a js project
-* microbit with python minecraft
-* a swift app
-
+* (microbit with python minecraft)
+* (a swift app)
