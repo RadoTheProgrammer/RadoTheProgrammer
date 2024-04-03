@@ -1,10 +1,11 @@
 ## Current projects
 
-* mcserial
+
 * cpplearn-part2
 * ml
 * pymaths
 * stats-notes
+* stats-tailles
 
 ## Past projects
 
@@ -24,7 +25,7 @@
 * bescherelle
 * mots-mêlés générateur et solver, constructeur sur minecraft
 * (reverso)
-* 
+* (mcserial)
 
 ### Scratch
 
