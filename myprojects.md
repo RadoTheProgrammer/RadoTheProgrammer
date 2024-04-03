@@ -16,11 +16,11 @@
 * qcm vd/ch
 * mc chess
 * mc parcour générateur
-* rrprettier
-* photosB
+* (rrprettier)
+* (photosB)
 * googletrans
 * rrtreesize
-* automate cellulaire
+* (automate cellulaire)
 * bescherelle
 * mots-mêlés générateur et solver, constructeur sur minecraft
 * (reverso)
