@@ -14,7 +14,7 @@
 * [blockparty](https://github.com/RadoTheProgrammer/blockparty): play blockparty on minecraft
 * dcdl: ceb and mlpl generator, solver for game Des Chiffres et Des Lettres
 * qcm vd/ch: un questionnaire sur la suisse et le canton de vaud
-* mc chess: play chess in minecraft
+* mc chess: play chess in minecraft (broken)
 * mc parcour générateur: un générateur de parcours minecraft
 * googletrans: interact with Google Translate api
 * [mcserial](https://github.com/RadoTheProgrammer/mcserial): turn cuboid of blocks of minecraft into numpy array
