@@ -1,11 +1,10 @@
 ## Current projects
 
-
-* cpplearn-part2
-* ml
-* pymaths
-* stats-notes
-* stats-tailles
+* ml: stuff where i learn machine learning from a book
+* pymaths: where i learn python and mathematicals from a book
+* stats-notes: analys of my notes at school
+* qt-learn: i learn qt from a book
+* motsmeles: générateur de mots-mêlés et constructeur de mots-mêlés
 
 ## Past projects
 
@@ -13,34 +12,32 @@
 
 * RRQuizlet (my_vocabulary): revise vocabulary with flashcards
 * mc blockparty: play blockparty on minecraft
-* dcdl: ceb and mlpl generator, solver
-* qcm vd/ch
-* mc chess
-* mc parcour générateur
-* (rrprettier)
+* dcdl: ceb and mlpl generator, solver for game Des Chiffres et Des Lettres
+* qcm vd/ch: un questionnaire sur la suisse et le canton de vaud
+* mc chess: play chess in minecraft
+* mc parcour générateur: un générateur de parcours minecraft
+* googletrans: interact with Google Translate api
+* mcserial: turn blocks of minecraft into numpy array
+* pygame: snake
+* (rrprettier): to display json data
 * (photosB)
-* googletrans
-* rrtreesize
 * (automate cellulaire)
-* bescherelle
-* mots-mêlés générateur et solver, constructeur sur minecraft
+* (bescherelle)
 * (reverso)
-* (mcserial)
 
 ### Scratch
 
-* Platformer
-* (math livrets)
-* tchat
+* Platformer: un platformer marchant en ligne
+* (math livrets): entraîner les livrets sur maths
 * (password generator and trainer)
-* quiz cantons suisse
-* chess
+* quiz cantons suisse: un quiz sur les cantons de la suisse, leur emplacement
+* chess: un projet de jeu d'échecs
 * qcm vd ch
-* chifoumi en ligne
-* dcdl
-* flappy parrot
-* snake
-* mots-mêlés
+* chifoumi en ligne: un chifoumi en ligne contre un bot ou un vrai joueur
+* dcdl: jouer au compte est bon et au mot le plus long
+* flappy parrot: un jeu avec un oiseau
+* snake: le jeu snake
+* mots-mêlés: générateur
 * memory (miora's account)
 * (pixel drawing)
 
