@@ -28,17 +28,22 @@
 ### Scratch
 
 * [Platformer](https://scratch.mit.edu/projects/406263686/): un platformer marchant en ligne
-* ([password generator and trainer](https://scratch.mit.edu/projects/883740304/))
+* [password generator and trainer](https://scratch.mit.edu/projects/883740304/)
 * [quiz cantons suisse](https://scratch.mit.edu/studios/28908446): un quiz sur les cantons de la suisse, leur emplacement
 * [chess](https://scratch.mit.edu/projects/383801200/): un projet de jeu d'échecs
 * [qcm vd ch](https://scratch.mit.edu/projects/405656022/): un questionnaire sur la suisse et le canton de vaud
 * [chifoumi en ligne](https://scratch.mit.edu/projects/549905681/): un chifoumi en ligne contre un bot ou un vrai joueur
-* dcdl: jouer au [compte est bon ](https://scratch.mit.edu/projects/529613029/)et au [mot le plus long](https://scratch.mit.edu/projects/537035213/)
-* flappy parrot: un jeu vidéo avec un oiseau
-* snake: le jeu snake
-* mots-mêlés: générateur
-* memory (miora's account)
-* (pixel drawing)
+* dcdl:
+  * jouer au [compte est bon](https://scratch.mit.edu/projects/529613029/)
+  * [au mot le plus long](https://scratch.mit.edu/projects/537035213/)
+* [flappy parrot](https://scratch.mit.edu/projects/401732469/): un jeu vidéo avec un oiseau
+* [snake](https://scratch.mit.edu/projects/404768688/): le jeu snake
+* mots-mêlés:
+  * [générateur](https://scratch.mit.edu/projects/415092068) de mots-mêlés
+  * [mots-mêlés 1](https://scratch.mit.edu/projects/413663830)
+  * [mots-mêlés 2](https://cdn2.scratch.mit.edu/get_image/project/513486094_480x360.png)
+* memory (other account)
+* ([pixel drawing](https://scratch.mit.edu/projects/316797458/))
 * ([math livrets](https://scratch.mit.edu/projects/328774701/)): entraîner les livrets sur maths
 
 ### Minecraft redstone
