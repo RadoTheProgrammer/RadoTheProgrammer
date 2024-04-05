@@ -12,7 +12,7 @@
 
 * RRQuizlet (my_vocabulary): revise vocabulary with flashcards
 * [blockparty](https://github.com/RadoTheProgrammer/blockparty): play blockparty on minecraft
-* [dcdljeu](https://github.com/RadoTheProgrammer/dcdljeu): générateur de mots le plus long et compte est bon
+* [dcdljeu](https://github.com/RadoTheProgrammer/dcdljeu): solveur de mots le plus long et compte est bon
 * cm vd/ch: un questionnaire sur la suisse et le canton de vaud
 * mc chess: play chess in minecraft (broken)
 * mc parcour générateur: un générateur de parcours minecraft
