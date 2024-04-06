@@ -25,6 +25,11 @@
 * (bescherelle)
 * (reverso)
 
+#### Pygame
+
+* [pygame_snake](https://github.com/RadoTheProgrammer/pygame_snake)
+* 
+
 ### Scratch
 
 * [Platformer](https://scratch.mit.edu/projects/406263686/): un platformer marchant en ligne
