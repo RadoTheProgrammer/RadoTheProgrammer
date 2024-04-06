@@ -63,9 +63,10 @@
 
 * A C++ project
 * A ML project
+* a js project
+* (a swift app)
 * pygame: flappy bird
 * pygame: tetris
 * pygame: platformer
-* a js project
-* (microbit with python minecraft)
-* (a swift app)
+* pygame: mots-mêlés
+* pygame:chess
