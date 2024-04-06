@@ -10,15 +10,13 @@
 
 ### Python
 
-* RRQuizlet (my_vocabulary): revise vocabulary with flashcards
 * [blockparty](https://github.com/RadoTheProgrammer/blockparty): play blockparty on minecraft
 * [dcdljeu](https://github.com/RadoTheProgrammer/dcdljeu): solveur de mots le plus long et compte est bon
 * cm vd/ch: un questionnaire sur la suisse et le canton de vaud
-* mc chess: play chess in minecraft (broken)
 * mc parcour générateur: un générateur de parcours minecraft
 * googletrans: interact with Google Translate api
 * [mcserial](https://github.com/RadoTheProgrammer/mcserial): turn cuboid of blocks of minecraft into numpy array
-* pygame: snake
+* RRQuizlet (my_vocabulary): revise vocabulary with flashcards
 * (rrprettier): to display json data
 * (photosB)
 * (automate cellulaire)
@@ -27,8 +25,9 @@
 
 #### Pygame
 
-* [pygame_snake](https://github.com/RadoTheProgrammer/pygame_snake)
-* 
+* [pygame_snake](https://github.com/RadoTheProgrammer/pygame_snake): a snake game using pygame library
+* [angry_birds](https://github.com/RadoTheProgrammer/angry_birds): angry birds game using pygame library
+* [drawing](https://github.com/RadoTheProgrammer/drawing): a project for drawing. That uses pygame
 
 ### Scratch
 
