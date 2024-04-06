@@ -2,16 +2,16 @@
 
 * [ml](https://github.com/RadoTheProgrammer/ml): stuff where i learn machine learning from a book
 * [pymaths](https://github.com/RadoTheProgrammer/pymaths): where i learn python and mathematicals from a book
-* [stats-notes](https://github.com/RadoTheProgrammer/stats-notes): analys of my notes at school
 * qt-learn: i learn qt from a book
-* motsmeles: générateur de mots-mêlés et constructeur de mots-mêlés
+
 
 ## Past projects
 
 ### Python
-
+* [motsmeles](https://github.com/RadoTheProgrammer/motsmeles): word search generator / Un générateur de mots-mêlés
 * [blockparty](https://github.com/RadoTheProgrammer/blockparty): play blockparty on minecraft
 * [dcdljeu](https://github.com/RadoTheProgrammer/dcdljeu): solveur de mots le plus long et compte est bon
+* [stats-notes](https://github.com/RadoTheProgrammer/stats-notes): analys of my notes at school
 * cm vd/ch: un questionnaire sur la suisse et le canton de vaud
 * mc parcour générateur: un générateur de parcours minecraft
 * googletrans: interact with Google Translate api
@@ -22,6 +22,8 @@
 * (automate cellulaire)
 * (bescherelle)
 * (reverso)
+* 
+
 
 #### Pygame
 
