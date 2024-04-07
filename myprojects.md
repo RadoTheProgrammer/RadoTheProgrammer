@@ -9,13 +9,10 @@
 
 ### Python
 * [motsmeles](https://github.com/RadoTheProgrammer/motsmeles): word search generator / Un générateur de mots-mêlés
-* [blockparty](https://github.com/RadoTheProgrammer/blockparty): play blockparty on minecraft
 * [dcdljeu](https://github.com/RadoTheProgrammer/dcdljeu): solveur de mots le plus long et compte est bon
 * [stats-notes](https://github.com/RadoTheProgrammer/stats-notes): analys of my notes at school
 * cm vd/ch: un questionnaire sur la suisse et le canton de vaud
-* mc parcour générateur: un générateur de parcours minecraft
 * googletrans: interact with Google Translate api
-* [mcserial](https://github.com/RadoTheProgrammer/mcserial): turn cuboid of blocks of minecraft into numpy array
 * RRQuizlet (my_vocabulary): revise vocabulary with flashcards
 * (rrprettier): to display json data
 * (photosB)
@@ -30,6 +27,12 @@
 * [pygame_snake](https://github.com/RadoTheProgrammer/pygame_snake): a snake game using pygame library
 * [angry_birds](https://github.com/RadoTheProgrammer/angry_birds): angry birds game using pygame library
 * [drawing](https://github.com/RadoTheProgrammer/drawing): a project for drawing. That uses pygame
+
+#### Minecraft with mcpi
+* mc parcour générateur: un générateur de parcours minecraft
+* [blockparty](https://github.com/RadoTheProgrammer/blockparty): play blockparty on minecraft
+* [mcserial](https://github.com/RadoTheProgrammer/mcserial): turn cuboid of blocks of minecraft into numpy array
+
 
 ### Scratch
 
