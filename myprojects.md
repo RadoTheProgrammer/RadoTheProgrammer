@@ -4,23 +4,22 @@
 * [pymaths](https://github.com/RadoTheProgrammer/pymaths): where i learn python and mathematicals from a book
 * qt-learn: i learn qt from a book
 
-
 ## Past projects
 
 ### Python
+
 * [motsmeles](https://github.com/RadoTheProgrammer/motsmeles): word search generator / Un générateur de mots-mêlés
 * [dcdljeu](https://github.com/RadoTheProgrammer/dcdljeu): solveur de mots le plus long et compte est bon
 * [stats-notes](https://github.com/RadoTheProgrammer/stats-notes): analys of my notes at school
 * cm vd/ch: un questionnaire sur la suisse et le canton de vaud
-* googletrans: interact with Google Translate api
+* [mygoogletrans](https://github.com/RadoTheProgrammer/mygoogletrans): interact with Google Translate api
 * RRQuizlet (my_vocabulary): revise vocabulary with flashcards
-* (rrprettier): to display json data
+* ([rrprettier](https://github.com/RadoTheProgrammer/rrprettier)): to display json data
 * (photosB)
 * (automate cellulaire)
 * (bescherelle)
 * (reverso)
 * 
-
 
 #### Pygame
 
@@ -29,10 +28,10 @@
 * [drawing](https://github.com/RadoTheProgrammer/drawing): a project for drawing. That uses pygame
 
 #### Minecraft with mcpi
+
 * mc parcour générateur: un générateur de parcours minecraft
 * [blockparty](https://github.com/RadoTheProgrammer/blockparty): play blockparty on minecraft
 * [mcserial](https://github.com/RadoTheProgrammer/mcserial): turn cuboid of blocks of minecraft into numpy array
-
 
 ### Scratch
 
