@@ -13,7 +13,6 @@
 * [stats-notes](https://github.com/RadoTheProgrammer/stats-notes): analys of my notes at school
 * cm vd/ch: un questionnaire sur la suisse et le canton de vaud
 * [mygoogletrans](https://github.com/RadoTheProgrammer/mygoogletrans): interact with Google Translate api
-* RRQuizlet (my_vocabulary): revise vocabulary with flashcards
 * ([rrprettier](https://github.com/RadoTheProgrammer/rrprettier)): to display json data
 * (photosB)
 * (automate cellulaire)
