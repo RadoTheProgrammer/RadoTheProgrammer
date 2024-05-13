@@ -8,7 +8,6 @@
 
 ### Python
 
-* [motsmeles](https://github.com/RadoTheProgrammer/motsmeles): word search generator / Un générateur de mots-mêlés
 * [dcdljeu](https://github.com/RadoTheProgrammer/dcdljeu): solveur de mots le plus long et compte est bon
 * [stats-notes](https://github.com/RadoTheProgrammer/stats-notes): analys of my notes at school
 * cm vd/ch: un questionnaire sur la suisse et le canton de vaud
