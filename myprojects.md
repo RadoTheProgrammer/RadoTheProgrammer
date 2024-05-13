@@ -48,7 +48,6 @@
   * [générateur](https://scratch.mit.edu/projects/415092068) de mots-mêlés
   * [mots-mêlés 1](https://scratch.mit.edu/projects/413663830)
   * [mots-mêlés 2](https://cdn2.scratch.mit.edu/get_image/project/513486094_480x360.png)
-* memory (other account)
 * ([pixel drawing](https://scratch.mit.edu/projects/316797458/))
 * ([math livrets](https://scratch.mit.edu/projects/328774701/)): entraîner les livrets sur maths
 
