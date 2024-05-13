@@ -1,5 +1,6 @@
 ## Current projects
 
+* [motsmeles](https://github.com/RadoTheProgrammer/motsmeles): word search generator+solver, making a gui
 * [ml](https://github.com/RadoTheProgrammer/ml): stuff where i learn machine learning from a book
 * [pymaths](https://github.com/RadoTheProgrammer/pymaths): where i learn python and mathematicals from a book
 * qt-learn: i learn qt from a book
